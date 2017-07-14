@@ -3,22 +3,21 @@
 API for https://github.com/dumannikolay/hello-world-app
 
 ## Getting Started
+
 ```sh
-git clone git@github.com:dumannikolay/hello-world-app.git
+git clone git@github.com:dumannikolay/hello-world-api.git
 ```
-## Dev
-
-npm start
-
 ## Installing
 
+```sh
 npm install
+```
+## Start API server
 
-## Running the tests
+```sh
+node server.js
+```
 
-npm test
+## Check production build
 
-## Deployment
-
-npm run build
-
+http://localhost:8080/
