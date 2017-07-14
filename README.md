@@ -1,4 +1,4 @@
-# Hello-world App
+# Hello-world api server
 
 API for https://github.com/dumannikolay/hello-world-app
 
