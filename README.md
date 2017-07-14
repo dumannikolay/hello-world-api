@@ -1,6 +1,6 @@
 # Hello-world App
 
-API for (https://github.com/dumannikolay/hello-world-app)
+API for https://github.com/dumannikolay/hello-world-app
 
 ## Getting Started
 
