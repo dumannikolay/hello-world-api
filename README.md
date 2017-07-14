@@ -5,7 +5,7 @@ API for https://github.com/dumannikolay/hello-world-app
 ## Getting Started
 
 ```sh
-git clone git@github.com:dumannikolay/hello-world-api.git
+git clone https://github.com/dumannikolay/hello-world-app.git
 ```
 ## Installing
 
