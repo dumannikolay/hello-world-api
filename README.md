@@ -1,6 +1,6 @@
 # Hello-world App
 
-App to easy manage your list of movies.
+API for (https://github.com/dumannikolay/hello-world-app)
 
 ## Getting Started
 
